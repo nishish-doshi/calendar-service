@@ -1,0 +1,34 @@
+{
+  "events": [
+    {
+      "description": "Project Alpha Working Group Meeting",
+      "time": "2024-01-24T14:30:00",
+      "id": 1
+    },
+    {
+      "description": "Project Beta UAT Meeting",
+      "time": "2024-01-25T10:00:00",
+      "id": 2
+    },
+    {
+      "description": "Group IT Town Hall",
+      "time": "2024-02-01T15:00:00",
+      "id": 3
+    },
+    {
+      "description": "Project Delta Working Group Meeting",
+      "time": "2024-10-24T10:00:00",
+      "id": 4
+    },
+    {
+      "description": "YE2024 Teambuilding Day Forum",
+      "time": "2024-12-19T10:30:00",
+      "id": 5
+    },
+    {
+      "description": "Meeting Forum 1",
+      "time": "2024-12-30T09:00:00",
+      "id": 6
+    }
+  ]
+}
